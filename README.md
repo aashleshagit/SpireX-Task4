@@ -21,10 +21,10 @@ A responsive pricing cards section built using **HTML, CSS, and JavaScript**. It
 ## Screenshots
 
 ### Desktop View
-![Desktop Screenshot](screenshots/desktop4.png)
+![Desktop Screenshot](screenshots/desktop-view4.png)
 
 ### Mobile View
-![Mobile Screenshot](screenshots/mobile4.png)
+![Mobile Screenshot](screenshots/mobile-view4.png)
 
 ## Project Structure
 
